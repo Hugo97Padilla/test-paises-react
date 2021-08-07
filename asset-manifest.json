@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/Hugo97Padilla/test-paises-react/static/css/main.33e6a95f.chunk.css",
-    "main.js": "/Hugo97Padilla/test-paises-react/static/js/main.62bd798d.chunk.js",
-    "main.js.map": "/Hugo97Padilla/test-paises-react/static/js/main.62bd798d.chunk.js.map",
-    "runtime-main.js": "/Hugo97Padilla/test-paises-react/static/js/runtime-main.622061de.js",
-    "runtime-main.js.map": "/Hugo97Padilla/test-paises-react/static/js/runtime-main.622061de.js.map",
-    "static/js/2.6fc31e5b.chunk.js": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js",
-    "static/js/2.6fc31e5b.chunk.js.map": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js.map",
-    "index.html": "/Hugo97Padilla/test-paises-react/index.html",
-    "static/css/main.33e6a95f.chunk.css.map": "/Hugo97Padilla/test-paises-react/static/css/main.33e6a95f.chunk.css.map",
-    "static/js/2.6fc31e5b.chunk.js.LICENSE.txt": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js.LICENSE.txt",
-    "static/media/correcta.77e19333.svg": "/Hugo97Padilla/test-paises-react/static/media/correcta.77e19333.svg",
-    "static/media/App.scss": "/Hugo97Padilla/test-paises-react/static/media/fondo_inicio.514662a4.jpg",
-    "static/media/incorrecta.a5cbfbc1.svg": "/Hugo97Padilla/test-paises-react/static/media/incorrecta.a5cbfbc1.svg"
+    "main.css": "/test-paises-react/static/css/main.ffc203b4.chunk.css",
+    "main.js": "/test-paises-react/static/js/main.62bd798d.chunk.js",
+    "main.js.map": "/test-paises-react/static/js/main.62bd798d.chunk.js.map",
+    "runtime-main.js": "/test-paises-react/static/js/runtime-main.551bc30c.js",
+    "runtime-main.js.map": "/test-paises-react/static/js/runtime-main.551bc30c.js.map",
+    "static/js/2.6fc31e5b.chunk.js": "/test-paises-react/static/js/2.6fc31e5b.chunk.js",
+    "static/js/2.6fc31e5b.chunk.js.map": "/test-paises-react/static/js/2.6fc31e5b.chunk.js.map",
+    "index.html": "/test-paises-react/index.html",
+    "static/css/main.ffc203b4.chunk.css.map": "/test-paises-react/static/css/main.ffc203b4.chunk.css.map",
+    "static/js/2.6fc31e5b.chunk.js.LICENSE.txt": "/test-paises-react/static/js/2.6fc31e5b.chunk.js.LICENSE.txt",
+    "static/media/correcta.77e19333.svg": "/test-paises-react/static/media/correcta.77e19333.svg",
+    "static/media/App.scss": "/test-paises-react/static/media/fondo_inicio.514662a4.jpg",
+    "static/media/incorrecta.a5cbfbc1.svg": "/test-paises-react/static/media/incorrecta.a5cbfbc1.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.622061de.js",
+    "static/js/runtime-main.551bc30c.js",
     "static/js/2.6fc31e5b.chunk.js",
-    "static/css/main.33e6a95f.chunk.css",
+    "static/css/main.ffc203b4.chunk.css",
     "static/js/main.62bd798d.chunk.js"
   ]
 }
