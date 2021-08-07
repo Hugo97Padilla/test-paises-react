@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/Hugo97Padilla/test-paises-react/static/css/main.33e6a95f.chunk.css",
+    "main.js": "/Hugo97Padilla/test-paises-react/static/js/main.d8bb3846.chunk.js",
+    "main.js.map": "/Hugo97Padilla/test-paises-react/static/js/main.d8bb3846.chunk.js.map",
+    "runtime-main.js": "/Hugo97Padilla/test-paises-react/static/js/runtime-main.622061de.js",
+    "runtime-main.js.map": "/Hugo97Padilla/test-paises-react/static/js/runtime-main.622061de.js.map",
+    "static/js/2.6fc31e5b.chunk.js": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js",
+    "static/js/2.6fc31e5b.chunk.js.map": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js.map",
+    "index.html": "/Hugo97Padilla/test-paises-react/index.html",
+    "static/css/main.33e6a95f.chunk.css.map": "/Hugo97Padilla/test-paises-react/static/css/main.33e6a95f.chunk.css.map",
+    "static/js/2.6fc31e5b.chunk.js.LICENSE.txt": "/Hugo97Padilla/test-paises-react/static/js/2.6fc31e5b.chunk.js.LICENSE.txt",
+    "static/media/correcta.77e19333.svg": "/Hugo97Padilla/test-paises-react/static/media/correcta.77e19333.svg",
+    "static/media/App.scss": "/Hugo97Padilla/test-paises-react/static/media/fondo_inicio.514662a4.jpg",
+    "static/media/incorrecta.a5cbfbc1.svg": "/Hugo97Padilla/test-paises-react/static/media/incorrecta.a5cbfbc1.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.622061de.js",
+    "static/js/2.6fc31e5b.chunk.js",
+    "static/css/main.33e6a95f.chunk.css",
+    "static/js/main.d8bb3846.chunk.js"
+  ]
+}
